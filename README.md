@@ -4,7 +4,7 @@ Was compiling a post on Messi and Suarez but now Messi isn't leaving and nobody 
 
 ## What are we looking at: Suarez
 
-Suarez isn't that good anymore with his number around the median for players in his position. These are numbers from La Liga so he may still do well at, say, Ajax which should be an easier league to compete in.
+Suarez isn't that good anymore with his numbers falling close to and on both sides of the median for players in his position. His numbers are heavily from the La Liga though so he may still do well in an easier league to compete in, say at Ajax.
 
 ![](Suarez_20200630.png)
 
@@ -76,3 +76,7 @@ Another player that I'm surprised Barca aren't linked with. He is very versatile
 ![](Sancho_20200630.png)
 
 When playing on the right wing, Sancho tends to stay wide with lots of cutbacks and short crosses, and shots from wider angles compared to Messi who prefers more central areas to attempts assists from, often through vertical passes, and to attempt shots from. Barca's style of play today has the width being provided by their fullbacks and the wingers tucked in so if Sancho were to brought in to play on the right wing, it would need a restructuring of the way Barcelona play.
+
+## Get in touch
+
+If you liked this bit of analysis, would like to do it for players at your clubs, or have any feedback, you can find me on [Twitter](https://twitter.com/thecomeonman) or e-mail me at mail dot thecomeonman at gmail dot com.
